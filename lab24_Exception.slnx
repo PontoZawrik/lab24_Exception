@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="console/console.vcxproj" Id="fd2e2d4c-ba38-4dc1-b794-50ad9227e433" />
+  <Project Path="lab24_Exception/lab24_Exception.vcxproj" />
+</Solution>
